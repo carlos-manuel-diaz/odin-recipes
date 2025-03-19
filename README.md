@@ -1,2 +1,1 @@
-# odin-recipes
-HTML Recipe project on odin
+# This is a readme
